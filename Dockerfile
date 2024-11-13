@@ -1,4 +1,4 @@
-FROM Nginx
+FROM nginx
 MAINTAINER bhagya
 LABEL This is my first image
 EXPOSE 80
